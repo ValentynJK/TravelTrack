@@ -1,7 +1,7 @@
 require('dotenv').config()
 
 
-console.log(process.env.foursquareKey)
+
 // Foursquare API Info
 const foursquareKey = process.env.foursquareKey;
 
