@@ -1,7 +1,3 @@
-require('dotenv').config()
-
-
-
 // Foursquare API Info
 
 
