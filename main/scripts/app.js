@@ -3,7 +3,7 @@ require('dotenv').config()
 
 
 // Foursquare API Info
-const foursquareKey = process.env.foursquareKey;
+
 
 const placeUrl = 'https://api.foursquare.com/v3/places/search?near='; // url to GET the place
 const placeImgUrl = 'https://api.foursquare.com/v3/places/' // url for to GET the photo
